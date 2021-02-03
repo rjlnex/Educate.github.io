@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul li{
+    list-style-type: none;
+}
+
+.item{
+    text-decoration: none;
+}
+
+.menu{
+    width: 70%;
+    background-color: blueviolet;
+}
+
+.logo{
+    width: 30%;
+}
+
+.logo img{
+    width: 25%;
+    background-color: black;
+}
